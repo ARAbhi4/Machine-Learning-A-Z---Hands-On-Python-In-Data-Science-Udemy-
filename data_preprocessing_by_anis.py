@@ -3,14 +3,6 @@
 """
 Created on Sun Jan 26 16:59:43 2020
 
-@author: xd
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 25 22:48:38 2020
-
 @author: Anis
 """
 
